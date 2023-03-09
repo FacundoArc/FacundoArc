@@ -5,7 +5,9 @@ In my profile you will see some proyects that I have been working on with the he
 I specialize in Python and SQL; but I am always searching for new tools to incorporate. <br>
 My main goal is to get my first experience in the IT business.<br>
 
-How to reach me:
+
+
+How to reach me: <br>
 Email : facugarce@proton.me <br>
 LinkedIn: https://www.linkedin.com/in/facundo-gabriel-arce-21aa49165/
 
