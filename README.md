@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Welcome to my Github repository! My name is Facundo Gabriel Arce and I recently started studying everything related to the DataScience world.
-In my profile you will see some proyects that I have been working on with the help of SoyHenry.
-I specialize in Python and SQL; but I am always searching for new tools to incorporate.
-My main goal is to get my first experience in the IT business.
+Welcome to my Github repository! My name is Facundo Gabriel Arce and I recently started studying everything related to the DataScience world. <br>
+In my profile you will see some proyects that I have been working on with the help of SoyHenry. <br>
+I specialize in Python and SQL; but I am always searching for new tools to incorporate. <br>
+My main goal is to get my first experience in the IT business.<br>
 
 How to reach me:
-Email : facugarce@proton.me
+Email : facugarce@proton.me <br>
 LinkedIn: https://www.linkedin.com/in/facundo-gabriel-arce-21aa49165/
 
 <!--
